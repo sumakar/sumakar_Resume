@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 21:07
 entering extended mode
 **./sumakar_Resume.tex
 (sumakar_Resume.tex
@@ -95,79 +95,81 @@ mkii"
 File: IMG-20160524-WA0002.jpg Graphic file (type jpg)
 
 <use IMG-20160524-WA0002.jpg>
-Package pdftex.def Info: IMG-20160524-WA0002.jpg used on input line 12.
+Package pdftex.def Info: IMG-20160524-WA0002.jpg used on input line 13.
 (pdftex.def)             Requested size: 68.99895pt x 92.67548pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--22
+Underfull \hbox (badness 10000) in paragraph at lines 16--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
+(Font)              <5> on input line 32.
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []\OT1/cmr/m/n/10 University school of In-for-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 \OT1/cmr/m/n/10 and Com-mu-ni-ca-tion Tech-nol-ogy
  []
 
 
-Overfull \hbox (22.55014pt too wide) in paragraph at lines 31--42
+Overfull \hbox (22.55014pt too wide) in paragraph at lines 32--43
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--42
+Underfull \hbox (badness 10000) in paragraph at lines 32--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--42
+Underfull \hbox (badness 10000) in paragraph at lines 32--43
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 ("C:\Users\SUMAKAR\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
 [1
 
 {C:/Users/SUMAKAR/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./IMG-201
 60524-WA0002.jpg>] [2] (sumakar_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1126 strings out of 493634
- 15410 string characters out of 3134423
+ 1127 strings out of 493634
+ 15427 string characters out of 3134423
  71387 words of memory out of 3000000
- 4557 multiletter control sequences out of 15000+200000
+ 4558 multiletter control sequences out of 15000+200000
  4301 words of font info for 16 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,8n,19p,228b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/SUMAKAR/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/SUMAKAR/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/U
 sers/SUMAKAR/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msl10.pfb><C:/Users/SUMAKAR/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb>
-Output written on sumakar_Resume.pdf (2 pages, 185645 bytes).
+mr10.pfb><C:/Users/SUMAKAR/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Users/SUMAKAR/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/SUMAKAR/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sumakar_Resume.pdf (2 pages, 202245 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
